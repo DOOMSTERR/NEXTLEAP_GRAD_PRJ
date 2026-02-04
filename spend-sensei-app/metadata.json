@@ -1,0 +1,5 @@
+{
+  "name": "Spend Sensei",
+  "description": "A smart bank statement analyzer that transforms messy financial data into actionable conversational insights using pattern recognition and behavioral analysis.",
+  "requestFramePermissions": []
+}
